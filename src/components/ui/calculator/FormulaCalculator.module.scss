@@ -1,0 +1,19 @@
+.formulaCalculator {
+	margin-bottom: 10px;
+	font-family: Arial, sans-serif;
+}
+
+.formula-calculator .error {
+	color: red;
+	font-weight: bold;
+}
+
+.formula-calculator .result {
+	color: green;
+	font-weight: bold;
+}
+
+.formula-calculator .cm-variable-highlight {
+	background-color: rgba(0, 170, 255, 0.3);
+	border-radius: 3px;
+}
